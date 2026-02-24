@@ -8,5 +8,4 @@ func main() {
 	fmt.Println("test")
 
 	fmt.Println("blank lines")
-	fmt.Println("break")
 }
